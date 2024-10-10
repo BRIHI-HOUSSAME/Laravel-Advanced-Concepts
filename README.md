@@ -1,7 +1,7 @@
 # Laravel-Advanced-Concepts
 
 ## Description:
-This repository is designed to help you practice and understand advanced concepts in Laravel. It covers a variety of essential topics, including:
+This repository is designed to help me practice and understand advanced concepts in Laravel. It covers a variety of essential topics, including:
 
 - **Service Providers & Service Containers**: Learn how Laravel manages services and dependencies.
 - **Dependency Injection**: Practice injecting dependencies into controllers and services to write clean, maintainable code.
@@ -15,4 +15,3 @@ This repository is designed to help you practice and understand advanced concept
 - **Design Patterns**: Practice common design patterns like Repository, Singleton, and Factory in Laravel projects.
 - **Caching in Laravel**: Use Laravel’s caching mechanisms to improve performance and scalability of your application.
 
-This repository is aimed at developers who want to deepen their understanding of Laravel’s architecture and best practices. Each topic has its own implementation examples to guide you through the learning process.
